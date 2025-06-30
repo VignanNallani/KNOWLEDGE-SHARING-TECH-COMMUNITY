@@ -2,6 +2,12 @@
 
 A relational database system designed to support a collaborative, knowledge-sharing platform where tech enthusiasts can connect, post content, gain mentorship, and participate in events.
 
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+![Built With: SQL](https://img.shields.io/badge/Built%20With-SQL-blue)
+![Status: Completed](https://img.shields.io/badge/Status-Completed-brightgreen)
+![Project Type: DBMS](https://img.shields.io/badge/Type-Database%20Project-lightgrey)
+
+
 ## 📌 Project Description
 
 This project is a **Database Management System** (DBMS) designed for a tech community that:
