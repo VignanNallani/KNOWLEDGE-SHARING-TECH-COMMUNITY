@@ -37,19 +37,30 @@ The database includes the following core entities:
 ## 🗂️ Folder Structure
 TechCommunityDBMS/
 ├── README.md # Project documentation
+
 ├── LICENSE # MIT License
+
 ├── schema.sql # CREATE TABLE and relationships
+
 ├── queries/ # SQL query files
+
 │ ├── users_queries.sql
+
 │ ├── posts_comments_likes.sql
+
 │ ├── nested_queries.sql
+
 ├── reports/
+
 │ └── dbms_project_report.pdf
-├── images/
+
+├── images
+
 │ └── ER_Diagram.png
 
 
----
+
+
 
 ## 🧠 Key Features
 
